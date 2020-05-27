@@ -1,0 +1,264 @@
+[    
+    {
+        "userId": "1",
+        "firstName": "Nancy",
+        "lastName": "Davolio",
+        "emailAddress": "Nancy.Davolio@northwindDB.com",
+        "isActive": true,
+        "defaultSite": {
+            "name": "Seattle"
+        },        
+        "skills": [
+            {
+                "technology": "Beverages",
+                "experienceLevel": "Advanced"
+            },
+            {
+                "technology": "Confections",
+                "experienceLevel": "Intermediate"
+            }
+        ],
+        "billableRate": 10.0,
+        "blogUrl": "",
+        "facebookUrl": "Nancy.Davolio",
+        "skypeUsername": "Nancy.Davolio",
+        "linkedInUrl": "Nancy.Davolio",
+        "twitterUsername": "Nancy.Davolio",
+        "gitHubUrl": "",
+        "youTubePlayListId": "",
+        "aboutMeAudioUrl": ""
+    },
+  {
+    "userId": "2",
+    "firstName": "Andrew",
+    "lastName": "Fuller",
+    "emailAddress": "Andrew.Fuller@northwindDB.com",
+    "isActive": true,
+    "defaultSite": {
+      "name": "Seattle"
+    },
+    "skills": [
+      {
+        "technology": "Produce",
+        "experienceLevel": "Advanced"
+      },
+      {
+        "technology": "Confections",
+        "experienceLevel": "Intermediate"
+      }
+    ],
+    "billableRate": 10.0,
+    "blogUrl": null,
+    "facebookUrl": "Andrew.Fuller",
+    "skypeUsername": "Andrew.Fuller",
+    "linkedInUrl": "Andrew.Fuller",
+    "twitterUsername": "Andrew.Fuller",
+    "gitHubUrl": null,
+    "youTubePlayListId": null,
+    "aboutMeAudioUrl": null
+  },
+  {
+    "userId": "3",
+    "firstName": "Janet",
+    "lastName": "Leverling",
+    "emailAddress": "Janet.Leverling@northwindDB.com",
+    "isActive": true,
+    "defaultSite": {
+      "name": "Seattle"
+    },
+    "skills": [
+      {
+        "technology": "Dairy Products",
+        "experienceLevel": "Advanced"
+      }
+    ],
+    "billableRate": 10.0,
+    "blogUrl": null,
+    "facebookUrl": "Janet.Leverling",
+    "skypeUsername": "Janet.Leverling",
+    "linkedInUrl": "Janet.Leverling",
+    "twitterUsername": "Janet.Leverling",
+    "gitHubUrl": null,
+    "youTubePlayListId": null,
+    "aboutMeAudioUrl": null
+  },
+  {
+    "userId": "4",
+    "firstName": "Margaret",
+    "lastName": "Peacock",
+    "emailAddress": "Margaret.Peacock@northwindDB.com",
+    "isActive": true,
+    "defaultSite": {
+      "name": "Seattle"
+    },
+    "skills": [
+      {
+        "technology": "Beverages",
+        "experienceLevel": "Advanced"
+      },
+      {
+        "technology": "Confections",
+        "experienceLevel": "Intermediate"
+      }
+    ],
+    "billableRate": 10.0,
+    "blogUrl": null,
+    "facebookUrl": "Margaret.Peacock",
+    "skypeUsername": "Margaret.Peacock",
+    "linkedInUrl": "Margaret.Peacock",
+    "twitterUsername": "Margaret.Peacock",
+    "gitHubUrl": null,
+    "youTubePlayListId": null,
+    "aboutMeAudioUrl": null
+  },
+  {
+    "userId": "5",
+    "firstName": "Steven",
+    "lastName": "Buchanan",
+    "emailAddress": "Steven.Buchanan@northwindDB.com",
+    "mobilePhone": "(206) 555-9857",
+    "isActive": true,
+    "defaultSite": {
+      "name": "London"
+    },
+    "skills": [
+      {
+        "technology": "Beverages",
+        "experienceLevel": "Advanced"
+      },
+      {
+        "technology": "Confections",
+        "experienceLevel": "Intermediate"
+      }
+    ],
+    "billableRate": 10.0,
+    "blogUrl": null,
+    "facebookUrl": "Steven.Buchanan",
+    "skypeUsername": "Steven.Buchanan",
+    "linkedInUrl": "Steven.Buchanan",
+    "twitterUsername": "Steven.Buchanan",
+    "gitHubUrl": null,
+    "youTubePlayListId": null,
+    "aboutMeAudioUrl": null
+  },
+  {
+    "userId": "6",
+    "firstName": "Michael",
+    "lastName": "Suyama",
+    "emailAddress": "Michael.Suyama@northwindDB.com",
+    "mobilePhone": "(206) 555-9857",
+    "isActive": true,
+    "defaultSite": {
+      "name": "London"
+    },
+    "skills": [
+      {
+        "technology": "Beverages",
+        "experienceLevel": "Advanced"
+      },
+      {
+        "technology": "Confections",
+        "experienceLevel": "Intermediate"
+      }
+    ],
+    "billableRate": 10.0,
+    "blogUrl": null,
+    "facebookUrl": "Michael.Suyama",
+    "skypeUsername": "Michael.Suyama",
+    "linkedInUrl": "Michael.Suyama",
+    "twitterUsername": "Michael.Suyama",
+    "gitHubUrl": null,
+    "youTubePlayListId": null,
+    "aboutMeAudioUrl": null
+  },
+  {
+    "userId": "7",
+    "firstName": "Robert",
+    "lastName": "King",
+    "emailAddress": "Robert.King@northwindDB.com",
+    "mobilePhone": "(206) 555-9857",
+    "isActive": true,
+    "defaultSite": {
+      "name": "London"
+    },
+    "skills": [
+      {
+        "technology": "Beverages",
+        "experienceLevel": "Advanced"
+      },
+      {
+        "technology": "Confections",
+        "experienceLevel": "Intermediate"
+      }
+    ],
+    "billableRate": 10.0,
+    "blogUrl": null,
+    "facebookUrl": "Robert.King",
+    "skypeUsername": "Robert.King",
+    "linkedInUrl": "Robert.King",
+    "twitterUsername": "Robert.King",
+    "gitHubUrl": null,
+    "youTubePlayListId": null,
+    "aboutMeAudioUrl": null
+  },
+  {
+    "userId": "8",
+    "firstName": "Laura",
+    "lastName": "Callahan",
+    "emailAddress": "Laura.Callahan@northwindDB.com",
+    "mobilePhone": "(206) 555-9857",
+    "isActive": true,
+    "defaultSite": {
+      "name": "Seattle"
+    },
+    "skills": [
+      {
+        "technology": "Beverages",
+        "experienceLevel": "Advanced"
+      },
+      {
+        "technology": "Confections",
+        "experienceLevel": "Intermediate"
+      }
+    ],
+    "billableRate": 10.0,
+    "blogUrl": null,
+    "facebookUrl": "Laura.Callahan",
+    "skypeUsername": "Laura.Callahan",
+    "linkedInUrl": "Laura.Callahan",
+    "twitterUsername": "Laura.Callahan",
+    "gitHubUrl": null,
+    "youTubePlayListId": null,
+    "aboutMeAudioUrl": null
+  },
+  {
+    "userId": "9",
+    "firstName": "Anne",
+    "lastName": "Dodsworth",
+    "emailAddress": "Anne.Dodsworth@northwindDB.com",
+    "mobilePhone": "(206) 555-9857",
+    "isActive": true,
+    "defaultSite": {
+      "name": "London"
+    },
+    "skills": [
+      {
+        "technology": "Beverages",
+        "experienceLevel": "Advanced"
+      },
+      {
+        "technology": "Confections",
+        "experienceLevel": "Intermediate"
+      }
+    ],
+    "billableRate": 10.0,
+    "blogUrl": null,
+    "facebookUrl": "Anne.Dodsworth",
+    "skypeUsername": "Anne.Dodsworth",
+    "linkedInUrl": "Anne.Dodsworth",
+    "twitterUsername": "Anne.Dodsworth",
+    "gitHubUrl": null,
+    "youTubePlayListId": null,
+    "aboutMeAudioUrl": null
+  }
+]
