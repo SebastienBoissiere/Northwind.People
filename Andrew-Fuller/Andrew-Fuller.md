@@ -1,7 +1,7 @@
 ---
 id: "2"
  
-category: "Vice Presidents"
+category: "Vice President"
 role: "Vice President"
 qualifications: ""
 

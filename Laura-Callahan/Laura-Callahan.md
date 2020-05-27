@@ -1,7 +1,7 @@
 ---
 id: "8"
  
-category: "Coordinators"
+category: "Sales Representatives"
 role: "Inside Sales Coordinator"
 qualifications: ""
 
