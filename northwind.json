@@ -24,7 +24,8 @@
         "twitterUsername": "Nancy.Davolio",
         "gitHubUrl": "",
         "youTubePlayListId": "",
-        "aboutMeAudioUrl": ""
+        "aboutMeAudioUrl": "",
+        "publicPhotoAlbumUrl": ""
     },
   {
     "userId": "2",
@@ -51,7 +52,8 @@
     "twitterUsername": "Andrew.Fuller",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "3",
@@ -74,7 +76,8 @@
     "twitterUsername": "Janet.Leverling",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "4",
@@ -101,7 +104,8 @@
     "twitterUsername": "Margaret.Peacock",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "5",
@@ -129,7 +133,8 @@
     "twitterUsername": "Steven.Buchanan",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "6",
@@ -157,7 +162,8 @@
     "twitterUsername": "Michael.Suyama",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "7",
@@ -185,7 +191,8 @@
     "twitterUsername": "Robert.King",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "8",
@@ -213,7 +220,8 @@
     "twitterUsername": "Laura.Callahan",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   },
   {
     "userId": "9",
@@ -241,6 +249,7 @@
     "twitterUsername": "Anne.Dodsworth",
     "gitHubUrl": null,
     "youTubePlayListId": null,
-    "aboutMeAudioUrl": null
+    "aboutMeAudioUrl": null,
+    "publicPhotoAlbumUrl": ""
   }
 ]
