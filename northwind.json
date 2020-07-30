@@ -5,9 +5,7 @@
         "lastName": "Davolio",
         "emailAddress": "Nancy.Davolio@northwindDB.com",
         "isActive": true,
-        "defaultSite": {
-            "name": "Seattle"
-        },        
+        "defaultSite": "Seattle",        
         "skills": [
             {
                 "technology": "Beverages",
@@ -34,9 +32,7 @@
     "lastName": "Fuller",
     "emailAddress": "Andrew.Fuller@northwindDB.com",
     "isActive": true,
-    "defaultSite": {
-      "name": "Seattle"
-    },
+    "defaultSite": "Seattle",
     "skills": [
       {
         "technology": "Produce",
@@ -63,9 +59,7 @@
     "lastName": "Leverling",
     "emailAddress": "Janet.Leverling@northwindDB.com",
     "isActive": true,
-    "defaultSite": {
-      "name": "Seattle"
-    },
+    "defaultSite": "Seattle",
     "skills": [
       {
         "technology": "Dairy Products",
@@ -88,9 +82,7 @@
     "lastName": "Peacock",
     "emailAddress": "Margaret.Peacock@northwindDB.com",
     "isActive": true,
-    "defaultSite": {
-      "name": "Seattle"
-    },
+    "defaultSite": "Seattle",
     "skills": [
       {
         "technology": "Beverages",
@@ -118,9 +110,7 @@
     "emailAddress": "Steven.Buchanan@northwindDB.com",
     "mobilePhone": "(206) 555-9857",
     "isActive": true,
-    "defaultSite": {
-      "name": "London"
-    },
+    "defaultSite": "London",
     "skills": [
       {
         "technology": "Beverages",
@@ -148,9 +138,7 @@
     "emailAddress": "Michael.Suyama@northwindDB.com",
     "mobilePhone": "(206) 555-9857",
     "isActive": true,
-    "defaultSite": {
-      "name": "London"
-    },
+    "defaultSite": "London",
     "skills": [
       {
         "technology": "Beverages",
@@ -178,9 +166,7 @@
     "emailAddress": "Robert.King@northwindDB.com",
     "mobilePhone": "(206) 555-9857",
     "isActive": true,
-    "defaultSite": {
-      "name": "London"
-    },
+    "defaultSite": "London",
     "skills": [
       {
         "technology": "Beverages",
@@ -208,9 +194,7 @@
     "emailAddress": "Laura.Callahan@northwindDB.com",
     "mobilePhone": "(206) 555-9857",
     "isActive": true,
-    "defaultSite": {
-      "name": "Seattle"
-    },
+    "defaultSite": "Seattle",
     "skills": [
       {
         "technology": "Beverages",
@@ -238,9 +222,7 @@
     "emailAddress": "Anne.Dodsworth@northwindDB.com",
     "mobilePhone": "(206) 555-9857",
     "isActive": true,
-    "defaultSite": {
-      "name": "London"
-    },
+    "defaultSite": "London",
     "skills": [
       {
         "technology": "Beverages",
